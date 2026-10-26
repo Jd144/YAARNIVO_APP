@@ -1,0 +1,8 @@
+{
+  "name": "Yaarnivo",
+  "description": "India-focused 18+ friendship and social-entertainment platform (Har Baat Se Bane Yaari) with Hindi/English localization, verified female host discovery, audio/video call simulation, free chat, demo wallet, and safety verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
